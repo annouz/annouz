@@ -2,11 +2,17 @@
   
 👀 I’m interested in Machine Learning.
 
-🌱 I’m currently learning Data Analysis and Machine Learning frameworks like TensorFlow and Scikit-Learn.
+🌱 🌱 I’m currently learning Data Analysis using Pandas and Machine Learning with Scikit-Learn.
 
-💞️ I’m looking to collaborate on projects related to machine learning, data science, or AI, especially beginner-friendly projects.
+💞️ I’m looking to collaborate on projects related to machine learning, data analysis, especially beginner-friendly projects.
 
  📫 How to reach me: ankonadou@gmail.com
+
+
+ 🛠 Tools and Technologies:
+- Data Analysis: Pandas, NumPy
+- Machine Learning: Scikit-Learn
+- Programming Languages: Python
 
 <!---
 annouz/annouz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
